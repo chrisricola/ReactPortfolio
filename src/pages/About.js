@@ -3,7 +3,8 @@ import Hero from "../components/Hero";
 import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
-import { SocialIcon } from 'react-social-icons';
+
+
 function About() {
   return (
     <div>
@@ -30,7 +31,9 @@ function About() {
 
 
             </p>
-            <p></p>
+            <p>
+            
+            </p>
           </Col>
         </Row>
       </Container>
